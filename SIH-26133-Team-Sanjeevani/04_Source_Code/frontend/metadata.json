@@ -1,0 +1,10 @@
+{
+  "name": "Sanjeevani",
+  "description": "Connected rural healthcare coordination platform linking Patients, ASHA workers, ANMs, Doctors and Administrators with role-based care coordination and voice-assisted interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
